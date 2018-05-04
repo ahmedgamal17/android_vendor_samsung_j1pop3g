@@ -37,6 +37,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1pop3g/proprietary/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/samsung/j1pop3g/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/samsung/j1pop3g/proprietary/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
+    
+vendor/samsung/j1pop3g/proprietary/etc/wifi/mcs.ini:system/etc/wifi/mcs.ini \ 
     vendor/samsung/j1pop3g/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
     vendor/samsung/j1pop3g/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/j1pop3g/proprietary/bin/macloader:system/bin/macloader \
